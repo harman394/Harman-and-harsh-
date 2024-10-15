@@ -37,3 +37,29 @@ Limited accessibilities: in the outdoor games not all type of people cannot play
 # Risk in outdoor game.
 
 ![SAS](image/image2.jpg)
+
+
+# Harsh Kailey
+
+## Indoor Games
+
+## what are Indoor Games?
+
+Indoor games are activities or sports that which takes place indoors, inside a building or an enclosed place. These games do not need many resources and can be played under any condition of the weather. They are wide-ranging and may involve things like board games, card games, video games and games like table tennis, badminton and basketball. Indoor games are played especially for recreation, pastime, social relations, skill development and are commonly found in homes, schools and recreational clubs.
+
+# the image of Billiards
+![alt text](download.jpg)
+
+# the image of Table Tennis
+![alt text](images.jpg)
+
+# Advantages of indoor games;
+1. Weather Independence: Indoor games can be launched irrespective of the weather prevailing outside, thus they can be launched any time of the year. This is enables any player to continue with the activity before him without nothing as rain, snow or intense heat interfering.
+
+2. Space Utilization and Social Interaction: If it is an indoor game they will be needing even lesser space than that for the outdoor games since it can be done at home or any center for that matter. They also promote social skills or interaction as well as improve the ability of the players to work in groups.
+# Disadvantages of indoor games;
+1. Limited Physical Activity: Most of these games cause children to be more indoor most of the time, therefore such sports can lead to children being inactive. This help in development of diseases if not accompanied by physical exercises.
+
+2. Space Constraints: Indoor games usually need to be played in a certain area, however this can be a problem. This can reduce on the number of players or kind of games one can entertain his or her self on crowded sections.
+
+3. Distractions and Noise: Environmental interferences are always an issue especially where the experiment is conducted indoors and within hearing distance from other people. Consequently, it can negatively influence the process of real gaming and cause much confusion due to the fact that individuals will have difficulties in focusing and immersing themselves into the game.
