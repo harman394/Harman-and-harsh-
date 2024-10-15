@@ -48,8 +48,7 @@ Limited accessibilities: in the outdoor games not all type of people cannot play
 Indoor games are activities or sports that which takes place indoors, inside a building or an enclosed place. These games do not need many resources and can be played under any condition of the weather. They are wide-ranging and may involve things like board games, card games, video games and games like table tennis, badminton and basketball. Indoor games are played especially for recreation, pastime, social relations, skill development and are commonly found in homes, schools and recreational clubs.
 
 # the image of Billiards
-![alt text](download.jpg)
-
+![alt text](download-1.jpg)
 # the image of Table Tennis
 ![alt text](images.jpg)
 
